@@ -21,3 +21,7 @@ You can install these dependencies using pip:
 ```bash
 pip install torch transformers
 pip install sentencepiece  # For MT5Tokenizer
+
+## Datasets Used
+
+- [English-Hindi Dataset-IIT Bombay](https://www.kaggle.com/datasets/vaibhavkumar11/hindi-english-parallel-corpus): For this example, we will use the IIT Bombay English-Hindi Parallel Corpus dataset.
